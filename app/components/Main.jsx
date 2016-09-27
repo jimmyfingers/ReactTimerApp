@@ -9,6 +9,7 @@ var Main = (props) => {
           <Navigation/>
           <p>Main.jsx rendered</p>
           {props.children}
+
         </div>
       </div>
     </div>
